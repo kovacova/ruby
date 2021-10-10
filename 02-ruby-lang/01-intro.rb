@@ -1,5 +1,7 @@
+# Intro to Ruby
+# www.ruby-lang.org
 
-# Put String = Print out String
+# Put String = Print out a String
 print "Hello World\n"
 
 puts "Hello World"      # Adds a newline
